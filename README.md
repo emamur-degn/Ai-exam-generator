@@ -153,7 +153,7 @@ pip install werkzeug
 ## 🎬 Demo & Live Preview
 
 ### 📹 **Full Demo Video** 
-[![Demo Video](https://img.youtube.com/vi/yOrRvX-MMpw/maxresdefault.jpg)](https://youtu.be/yOrRvX-MMpw)
+[![Demo Video](https://img.youtube.com/vi/yOrRvX-MMpw/maxresdefault.jpg)](https://www.youtube.com/watch?v=qdgDxUS__sY)
 *Example: GCSE Chemistry*
 
 ### 🌐 **Try It Live**
